@@ -24,3 +24,10 @@ var myVar = "Hello, world!";
 ``` python
 print "Hola Mundo!"
 ```
+
+Ejemplo de listas tipo checkbox:
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+
